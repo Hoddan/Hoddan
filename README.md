@@ -2,9 +2,6 @@
 - 👀 I’m interested in DIY/Hardware/Build New Idea Tools from scrap/Inovation 
 - 🌱 I’m currently learning Linux/Software/Web3
 - 💞️ I’m looking to collaborate on Projects/Spygear
-- 📫 How to reach me Petter Nyby Norra skjutbanegatan 12E 723 39 Västerås SWEDEN
-- PetterHoddanNyby@gmail.com
-- Hoddan@hotmail.se
 
 
 <!---
